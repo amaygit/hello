@@ -30,7 +30,10 @@ body {
     position: fixed;
     top: 0;
 }
-
+.audio {
+    display: none;
+  }
+  
 .container > div {
     position: absolute;
     left: 0;
